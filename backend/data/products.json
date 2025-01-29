@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Wireless Bluetooth Headphones",
+    "price": 59.99,
+    "description": "High-quality wireless Bluetooth headphones with noise-cancelling feature and long battery life.",
+    "ratings": {
+      "name": "John Doe",
+      "title": "Amazing Sound Quality",
+      "email": "john.doe@example.com",
+      "date": "2024-07-01T10:15:30Z",
+      "comment": "These headphones provide great sound quality and are very comfortable.",
+      "starRating": 5,
+      "comfort": 5,
+      "quality": 5,
+      "fit": "perfect",
+      "length": "perfect",
+      "helpfulCount": 10,
+      "unhelpfulCount": 1,
+      "reported": false
+    },
+    "images": [
+      {
+        "public_id": "image1",
+        "url": "https://res.cloudinary.com/dxatqyrxn/image/upload/v1718418739/ecomProducts/i6nhyz2cdnjom8cvzi9z.avif"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Best Electronics",
+    "stock": 100,
+    "numberOfReviews": 5,
+    "reviews": [
+      {
+        "name": "Jane Smith",
+        "title": "Great Value",
+        "email": "jane.smith@example.com",
+        "date": "2024-06-15T14:22:10Z",
+        "comment": "Excellent value for the price, highly recommended.",
+        "starRating": 4,
+        "comfort": 4,
+        "quality": 4,
+        "fit": "perfect",
+        "length": "perfect",
+        "helpfulCount": 5,
+        "unhelpfulCount": 0,
+        "reported": false
+      }
+    ],
+    "createdAt": "2024-06-01T08:45:00Z"
+  },
+
+  {
+    "name": "4K Ultra HD Smart TV",
+    "price": 499.99,
+    "description": "Experience incredible picture quality with this 4K Ultra HD Smart TV, featuring a sleek design and multiple connectivity options.",
+    "ratings": {
+      "name": "Alice Brown",
+      "title": "Stunning Display",
+      "email": "alice.brown@example.com",
+      "date": "2024-07-02T12:00:30Z",
+      "comment": "The picture quality is stunning and it's very easy to set up.",
+      "starRating": 5,
+      "comfort": null,
+      "quality": 5,
+      "fit": null,
+      "length": null,
+      "helpfulCount": 8,
+      "unhelpfulCount": 0,
+      "reported": false
+    },
+    "images": [
+      {
+        "public_id": "image2",
+        "url": "https://res.cloudinary.com/dxatqyrxn/image/upload/v1718418736/ecomProducts/rc4iybmpk7cohptxlh0f.avif"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Top TVs",
+    "stock": 50,
+    "numberOfReviews": 3,
+    "reviews": [
+      {
+        "name": "Bob Johnson",
+        "title": "Worth Every Penny",
+        "email": "bob.johnson@example.com",
+        "date": "2024-06-20T16:10:20Z",
+        "comment": "This TV offers great value for money with its high-quality display.",
+        "starRating": 5,
+        "comfort": null,
+        "quality": 5,
+        "fit": null,
+        "length": null,
+        "helpfulCount": 3,
+        "unhelpfulCount": 0,
+        "reported": false
+      }
+    ],
+    "createdAt": "2024-06-05T10:20:00Z"
+  },
+  {
+    "name": "Smartphone with Triple Camera",
+    "price": 799.99,
+    "description": "Latest smartphone with a triple camera system, fast processor, and vibrant display.",
+    "ratings": {
+      "name": "Charlie Green",
+      "title": "Impressive Performance",
+      "email": "charlie.green@example.com",
+      "date": "2024-07-03T14:30:00Z",
+      "comment": "The camera is fantastic and the phone runs very smoothly.",
+      "starRating": 5,
+      "comfort": null,
+      "quality": 5,
+      "fit": null,
+      "length": null,
+      "helpfulCount": 7,
+      "unhelpfulCount": 1,
+      "reported": false
+    },
+    "images": [
+      {
+        "public_id": "image3",
+        "url": "https://res.cloudinary.com/dxatqyrxn/image/upload/v1718418733/ecomProducts/ibzgv4vhqvn3xkv3xrko.avif"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Mobile World",
+    "stock": 30,
+    "numberOfReviews": 4,
+    "reviews": [
+      {
+        "name": "David Wilson",
+        "title": "Highly Recommend",
+        "email": "david.wilson@example.com",
+        "date": "2024-06-25T18:40:30Z",
+        "comment": "This phone is a great choice for anyone looking for high performance and a good camera.",
+        "starRating": 5,
+        "comfort": null,
+        "quality": 5,
+        "fit": null,
+        "length": null,
+        "helpfulCount": 2,
+        "unhelpfulCount": 0,
+        "reported": false
+      }
+    ],
+    "createdAt": "2024-06-10T12:30:00Z"
+  },
+  {
+    "name": "Laptop with 16GB RAM",
+    "price": 1299.99,
+    "description": "Powerful laptop with 16GB RAM, fast SSD, and high-resolution display, perfect for multitasking.",
+    "ratings": {
+      "name": "Emma White",
+      "title": "Great for Work",
+      "email": "emma.white@example.com",
+      "date": "2024-07-04T16:45:00Z",
+      "comment": "This laptop handles all my work tasks with ease and is very reliable.",
+      "starRating": 5,
+      "comfort": null,
+      "quality": 5,
+      "fit": null,
+      "length": null,
+      "helpfulCount": 6,
+      "unhelpfulCount": 0,
+      "reported": false
+    },
+    "images": [
+      {
+        "public_id": "image4",
+        "url": "https://res.cloudinary.com/dxatqyrxn/image/upload/v1718418731/ecomProducts/qxhnu55ifn2ap3v4cjvn.avif"
+      }
+    ],
+    "category": "Computers",
+    "seller": "Laptop Central",
+    "stock": 25,
+    "numberOfReviews": 5,
+    "reviews": [
+      {
+        "name": "Fiona Blue",
+        "title": "Excellent Performance",
+        "email": "fiona.blue@example.com",
+        "date": "2024-06-30T20:55:00Z",
+        "comment": "A fantastic laptop for professionals. Highly recommend it!",
+        "starRating": 5,
+        "comfort": null,
+        "quality": 5,
+        "fit": null,
+        "length": null,
+        "helpfulCount": 4,
+        "unhelpfulCount": 0,
+        "reported": false
+      }
+    ],
+    "createdAt": "2024-06-15T14:40:00Z"
+  },
+
+  {
+    "name": "Wireless Bluetooth Headphones",
+    "price": 59.99,
+    "description": "High-quality wireless Bluetooth headphones with noise-cancelling feature and long battery life.",
+    "ratings": {
+      "name": "John Doe",
+      "title": "Amazing Sound Quality",
+      "email": "john.doe@example.com",
+      "date": "2024-07-01T10:15:30Z",
+      "comment": "These headphones provide great sound quality and are very comfortable.",
+      "starRating": 5,
+      "comfort": 5,
+      "quality": 5,
+      "fit": "perfect",
+      "length": "perfect",
+      "helpfulCount": 10,
+      "unhelpfulCount": 1,
+      "reported": false
+    },
+    "images": [
+      {
+        "public_id": "image1",
+        "url": "https://res.cloudinary.com/dxatqyrxn/image/upload/v1718418731/ecomProducts/modw4ctjpddfebsdgua3.avif"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Best Electronics",
+    "stock": 100,
+    "numberOfReviews": 5,
+    "reviews": [
+      {
+        "name": "Jane Smith",
+        "title": "Great Value",
+        "email": "jane.smith@example.com",
+        "date": "2024-06-15T14:22:10Z",
+        "comment": "Excellent value for the price, highly recommended.",
+        "starRating": 4,
+        "comfort": 4,
+        "quality": 4,
+        "fit": "perfect",
+        "length": "perfect",
+        "helpfulCount": 5,
+        "unhelpfulCount": 0,
+        "reported": false
+      }
+    ],
+    "createdAt": "2024-06-01T08:45:00Z"
+  },
+
+  {
+    "name": "4K Ultra HD Smart TV",
+    "price": 499.99,
+    "description": "Experience incredible picture quality with this 4K Ultra HD Smart TV, featuring a sleek design and multiple connectivity options.",
+    "ratings": {
+      "name": "Alice Brown",
+      "title": "Stunning Display",
+      "email": "alice.brown@example.com",
+      "date": "2024-07-02T12:00:30Z",
+      "comment": "The picture quality is stunning and it's very easy to set up.",
+      "starRating": 5,
+      "comfort": null,
+      "quality": 5,
+      "fit": null,
+      "length": null,
+      "helpfulCount": 8,
+      "unhelpfulCount": 0,
+      "reported": false
+    },
+    "images": [
+      {
+        "public_id": "image2",
+        "url": "https://res.cloudinary.com/dxatqyrxn/image/upload/v1718418731/ecomProducts/mimxgn3ejynziqhgahml.avif"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Top TVs",
+    "stock": 50,
+    "numberOfReviews": 3,
+    "reviews": [
+      {
+        "name": "Bob Johnson",
+        "title": "Worth Every Penny",
+        "email": "bob.johnson@example.com",
+        "date": "2024-06-20T16:10:20Z",
+        "comment": "This TV offers great value for money with its high-quality display.",
+        "starRating": 5,
+        "comfort": null,
+        "quality": 5,
+        "fit": null,
+        "length": null,
+        "helpfulCount": 3,
+        "unhelpfulCount": 0,
+        "reported": false
+      }
+    ],
+    "createdAt": "2024-06-05T10:20:00Z"
+  },
+
+  {
+    "name": "Smartphone with Triple Camera",
+    "price": 799.99,
+    "description": "Latest smartphone with a triple camera system, fast processor, and vibrant display.",
+    "ratings": {
+      "name": "Charlie Green",
+      "title": "Impressive Performance",
+      "email": "charlie.green@example.com",
+      "date": "2024-07-03T14:30:00Z",
+      "comment": "The camera is fantastic and the phone runs very smoothly.",
+      "starRating": 5,
+      "comfort": null,
+      "quality": 5,
+      "fit": null,
+      "length": null,
+      "helpfulCount": 7,
+      "unhelpfulCount": 1,
+      "reported": false
+    },
+    "images": [
+      {
+        "public_id": "image3",
+        "url": "https://res.cloudinary.com/dxatqyrxn/image/upload/v1717990300/ecomProducts/fzvmkjdn68qlmxz601tp.webp"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Mobile World",
+    "stock": 30,
+    "numberOfReviews": 4,
+    "reviews": [
+      {
+        "name": "David Wilson",
+        "title": "Highly Recommend",
+        "email": "david.wilson@example.com",
+        "date": "2024-06-25T18:40:30Z",
+        "comment": "This phone is a great choice for anyone looking for high performance and a good camera.",
+        "starRating": 5,
+        "comfort": null,
+        "quality": 5,
+        "fit": null,
+        "length": null,
+        "helpfulCount": 2,
+        "unhelpfulCount": 0,
+        "reported": false
+      }
+    ],
+    "createdAt": "2024-06-10T12:30:00Z"
+  },
+
+  {
+    "name": "Laptop with 16GB RAM",
+    "price": 1299.99,
+    "description": "Powerful laptop with 16GB RAM, fast SSD, and high-resolution display, perfect for multitasking.",
+    "ratings": {
+      "name": "Emma White",
+      "title": "Great for Work",
+      "email": "emma.white@example.com",
+      "date": "2024-07-04T16:45:00Z",
+      "comment": "This laptop handles all my work tasks with ease and is very reliable.",
+      "starRating": 5,
+      "comfort": null,
+      "quality": 5,
+      "fit": null,
+      "length": null,
+      "helpfulCount": 6,
+      "unhelpfulCount": 0,
+      "reported": false
+    },
+    "images": [
+      {
+        "public_id": "image4",
+        "url": "https://res.cloudinary.com/dxatqyrxn/image/upload/v1717990296/ecomProducts/zbiccqxm6jf4ujm3znyr.webp"
+      }
+    ],
+    "category": "Computers",
+    "seller": "Laptop Central",
+    "stock": 25,
+    "numberOfReviews": 5,
+    "reviews": [
+      {
+        "name": "Fiona Blue",
+        "title": "Excellent Performance",
+        "email": "fiona.blue@example.com",
+        "date": "2024-06-30T20:55:00Z",
+        "comment": "A fantastic laptop for professionals. Highly recommend it!",
+        "starRating": 5,
+        "comfort": null,
+        "quality": 5,
+        "fit": null,
+        "length": null,
+        "helpfulCount": 4,
+        "unhelpfulCount": 0,
+        "reported": false
+      }
+    ],
+    "createdAt": "2024-06-15T14:40:00Z"
+  },
+
+  {
+    "name": "Wireless Bluetooth Headphones",
+    "price": 59.99,
+    "description": "High-quality wireless Bluetooth headphones with noise-cancelling feature and long battery life.",
+    "ratings": {
+      "name": "John Doe",
+      "title": "Amazing Sound Quality",
+      "email": "john.doe@example.com",
+      "date": "2024-07-01T10:15:30Z",
+      "comment": "These headphones provide great sound quality and are very comfortable.",
+      "starRating": 5,
+      "comfort": 5,
+      "quality": 5,
+      "fit": "perfect",
+      "length": "perfect",
+      "helpfulCount": 10,
+      "unhelpfulCount": 1,
+      "reported": false
+    },
+    "images": [
+      {
+        "public_id": "image1",
+        "url": "https://res.cloudinary.com/dxatqyrxn/image/upload/v1717990292/ecomProducts/xkfxweafh2i7a3yzgyc0.webp"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Best Electronics",
+    "stock": 100,
+    "numberOfReviews": 5,
+    "reviews": [
+      {
+        "name": "Jane Smith",
+        "title": "Great Value",
+        "email": "jane.smith@example.com",
+        "date": "2024-06-15T14:22:10Z",
+        "comment": "Excellent value for the price, highly recommended.",
+        "starRating": 4,
+        "comfort": 4,
+        "quality": 4,
+        "fit": "perfect",
+        "length": "perfect",
+        "helpfulCount": 5,
+        "unhelpfulCount": 0,
+        "reported": false
+      }
+    ],
+    "createdAt": "2024-06-01T08:45:00Z"
+  }
+
+  
+]
