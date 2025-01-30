@@ -74,14 +74,14 @@ exports.updateAdminLog = asyncHandler(async (req, res, next) => {
 
 // @desc    Delete an admin log
 // @route   DELETE /api/admin-logs/:id
-// @access  Admin only
+// @access  Admin only thats it
 exports.deleteAdminLog = asyncHandler(async (req, res, next) => {
   const log = await AdminLog.findById(req.params.id);
 
   if (!log) {
     return next(new ErrorResponse("Admin log not found", 404));
   }
-
+ 
   await log.remove();
 
   res.status(200).json({
